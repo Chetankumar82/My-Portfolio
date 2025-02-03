@@ -214,7 +214,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Chetankumar82/My-Portfolio",
-    webapp: "https://github.com/Chetankumar82",
+    webapp: "https://chetan-portfolio-three.vercel.app/",
   },
   {
     id: 9,
