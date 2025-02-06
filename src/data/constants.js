@@ -18,7 +18,7 @@ export const Bio = {
   github: "https://github.com/Chetankumar82",
   gmail: "chetankumar8203@gmail.com",
   resume:
-    "https://drive.google.com/file/d/1Rcfih8iDIqtKVwuvLvyaaG_Xv-UaC6e5/view?usp=sharing",
+    "https://drive.google.com/file/d/1GYOTqziMHpITPcipqhPtM9Ra8KN6pBPB/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/chetan82",
 
 };
