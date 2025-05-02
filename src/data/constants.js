@@ -18,7 +18,7 @@ export const Bio = {
   github: "https://github.com/Chetankumar82",
   gmail: "chetankumar8203@gmail.com",
   resume:
-    "https://drive.google.com/file/d/1GYOTqziMHpITPcipqhPtM9Ra8KN6pBPB/view?usp=sharing",
+    "https://drive.google.com/file/d/1whVRKfNX75h-nUPy0d2q0TgM9ifL1rjt/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/chetan82",
 
 };
@@ -235,19 +235,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Chetankumar82/college_website",
     webapp: "https://github.com/Chetankumar82",
-  },
-  // {
-  //   id: 0,
-  //   title: "Gemini Clone",
-  //   description:
-  //     "Developed a responsive Gemini platform clone using the Gemini API for real-time data processing, ensuring seamless user interaction. Leveraged React Hooks and Context API for efficient state management and a smoother user experience.",
-  //   image:
-  //     "https://raw.githubusercontent.com/anshita005/Gemini-Clone-Project/main/Screenshot%202024-11-02%20175452.png",
-  //   tags: ["React Js", "Javascript", "GeminiAPI", "CSS3"],
-  //   category: "web app",
-  //   github: "https://github.com/anshita005/Gemini-Clone-Project",
-  //   webapp: "https://github.com/anshita005/Gemini-Clone-Project",
-  // },
-  
+  },  
 ];
 
